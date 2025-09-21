@@ -1,6 +1,6 @@
 # This is my Portfolio in the making
 <img src = "https://media.licdn.com/dms/image/v2/D5616AQEAVJhTSqCPUA/profile-displaybackgroundimage-shrink_350_1400/B56Zhq_YDpG0Ag-/0/1754141656187?e=1761177600&v=beta&t=nFW8ciRvoQt45Dfecq1qpyF5oJxykoOGfuG15tuNOAE">
-<u>Do you know</u>?<br>
+<span style="text-decoration: underline;">Do you know</span>
 Process involved in data anlytics that may be are: </br>
 - Asking the Question</br>
 - Getting the data</br>
