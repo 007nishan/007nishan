@@ -1,5 +1,14 @@
 # This is my Portfolio in the making
 <img src = "https://media.licdn.com/dms/image/v2/D5616AQEAVJhTSqCPUA/profile-displaybackgroundimage-shrink_350_1400/B56Zhq_YDpG0Ag-/0/1754141656187?e=1761177600&v=beta&t=nFW8ciRvoQt45Dfecq1qpyF5oJxykoOGfuG15tuNOAE">
+#<u>Do you know</u>?
+Process involved in data anlytics that may be are:
+- Asking the Question
+- Getting the data
+- Investigating the data
+- Preparing the data
+- Analyzing the data
+- Presenting the results
+
 
 <!--
 **007nishan/007nishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
