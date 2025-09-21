@@ -9,6 +9,11 @@ Process involved in data anlytics that may be are: </br>
 - Analyzing the data</br>
 - Presenting the results</br>
 
+<a href="https://orcid.org/0009-0007-8012-0182">ORCiD</a>
+<a href="https://www.linkedin.com/in/007cn/">LinkedIn</a>
+<a href="https://www.instagram.com/the_ethereal007/">Instagram</a>
+<a href="https://x.com/NishanXX7">X</a>
+<a href="https://github.com/007nishan">GitHub</a>
 
 <!--
 **007nishan/007nishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
