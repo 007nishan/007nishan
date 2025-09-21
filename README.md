@@ -8,8 +8,7 @@ Process(that may be) involved in data anlytics are: </br>
 - Preparing the data</br>
 - Analyzing the data</br>
 - Presenting the results</br>
-
-<h3>Contact</h3>
+<h3>Contact Info</h3>
 <a href="https://www.instagram.com/the_ethereal007/">Instagram</a></br>
 <a href="https://www.linkedin.com/in/007cn/">LinkedIn</a></br>
 <a href="https://github.com/007nishan">GitHub</a></br>
