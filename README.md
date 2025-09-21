@@ -1,5 +1,5 @@
 <img src = "https://media.licdn.com/dms/image/v2/D5616AQEAVJhTSqCPUA/profile-displaybackgroundimage-shrink_350_1400/B56Zhq_YDpG0Ag-/0/1754141656187?e=1761177600&v=beta&t=nFW8ciRvoQt45Dfecq1qpyF5oJxykoOGfuG15tuNOAE">
-<img src = "<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/3dda7a55-7bee-4e9e-b48d-2c77414273fc" />
+<img src = "https://media.licdn.com/dms/image/v2/D5603AQGGQoxktXYuYw/profile-displayphoto-crop_800_800/B56ZlL5wmBKIAI-/0/1757915058250?e=1761177600&v=beta&t=HdAmtl69Wkou3-5iKN0mHkH1snhsQbCjeuPv4jUKxpw">
 
 <!--
 **007nishan/007nishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
