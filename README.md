@@ -1,5 +1,5 @@
 <h1>This is my Portfolio in the making</h1>
-<img src = "https://media.licdn.com/dms/image/v2/D5616AQEAVJhTSqCPUA/profile-displaybackgroundimage-shrink_350_1400/B56Zhq_YDpG0Ag-/0/1754141656187?e=1761177600&v=beta&t=nFW8ciRvoQt45Dfecq1qpyF5oJxykoOGfuG15tuNOAE">
+<img src = "https://media.licdn.com/dms/image/v2/D5616AQEAVJhTSqCPUA/profile-displaybackgroundimage-shrink_350_1400/B56Zhq_YDpG0Ag-/0/1754141656187?e=1761177600&v=beta&t=nFW8ciRvoQt45Dfecq1qpyF5oJxykoOGfuG15tuNOAE" alt=Amazon LMAQ Sports Tournament Finals />
 <span style="text-decoration: underline;">Do you know</span>?</br>
 Process(that may be) involved in data anlytics are: </br>
 - Asking the Question</br>
