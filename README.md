@@ -10,7 +10,24 @@ Process(that may be) involved in data anlytics are: </br>
 - Presenting the results</br>
 <h3>Contact Info</h3>
 <a href="https://www.instagram.com/the_ethereal007/">Instagram</a></br>
-<a href="https://www.linkedin.com/in/007cn/">LinkedIn</a></br>
+<a href="<style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=007cn" target="_blank">Follow on LinkedIn</a></br>
 <a href="https://github.com/007nishan">GitHub</a></br>
 <a href="https://orcid.org/0009-0007-8012-0182">ORCiD</a></br>
 <a href="https://x.com/NishanXX7">X</a></br>
